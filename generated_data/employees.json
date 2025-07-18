@@ -1,0 +1,102 @@
+[
+  {
+    "name": "John Smith",
+    "notes": ["Excellent performance on Q1 project", "Shows strong leadership skills"]
+  },
+  {
+    "name": "Sarah Johnson",
+    "notes": ["Needs improvement in time management", "Good technical skills"]
+  },
+  {
+    "name": "Mike Davis",
+    "notes": ["Consistently meets deadlines", "Great team player"]
+  },
+  {
+    "name": "Lisa Brown",
+    "notes": ["Outstanding problem-solving abilities", "Mentors junior staff well"]
+  },
+  {
+    "name": "Chris Wilson",
+    "notes": ["Innovative approach to challenges", "Requires more focus on details"]
+  },
+  {
+    "name": "Amy Taylor",
+    "notes": ["Excellent communication skills", "Drives team collaboration"]
+  },
+  {
+    "name": "Robert Miller",
+    "notes": ["Strong analytical skills", "Needs to improve presentation skills"]
+  },
+  {
+    "name": "Jennifer Garcia",
+    "notes": ["Reliable and consistent performer", "Shows initiative in new projects"]
+  },
+  {
+    "name": "David Martinez",
+    "notes": ["Technical expertise highly valued", "Could benefit from leadership training"]
+  },
+  {
+    "name": "Michelle Rodriguez",
+    "notes": ["Excellent customer service skills", "Adaptable to change"]
+  },
+  {
+    "name": "Kevin Anderson",
+    "notes": ["Creative problem solver", "Needs to improve documentation"]
+  },
+  {
+    "name": "Jessica Thomas",
+    "notes": ["Strong work ethic", "Collaborates well with cross-functional teams"]
+  },
+  {
+    "name": "Brian Jackson",
+    "notes": ["Attention to detail exceptional", "Could be more proactive"]
+  },
+  {
+    "name": "Ashley White",
+    "notes": ["Quick learner", "Shows potential for management role"]
+  },
+  {
+    "name": "Daniel Harris",
+    "notes": ["Solid technical foundation", "Needs to work on communication"]
+  },
+  {
+    "name": "Stephanie Martin",
+    "notes": ["Organized and efficient", "Excellent at training others"]
+  },
+  {
+    "name": "Matthew Thompson",
+    "notes": ["Innovative thinker", "Sometimes struggles with deadlines"]
+  },
+  {
+    "name": "Laura Clark",
+    "notes": ["Strong project management skills", "Good at stakeholder management"]
+  },
+  {
+    "name": "Ryan Lewis",
+    "notes": ["Technical troubleshooting expert", "Needs to improve documentation"]
+  },
+  {
+    "name": "Amanda Lee",
+    "notes": ["Excellent team coordination", "Strong analytical abilities"]
+  },
+  {
+    "name": "James Walker",
+    "notes": ["Consistent high performer", "Mentors team members effectively"]
+  },
+  {
+    "name": "Samantha Hall",
+    "notes": ["Creative solution development", "Good at process improvement"]
+  },
+  {
+    "name": "Andrew Allen",
+    "notes": ["Strong technical skills", "Needs to work on time management"]
+  },
+  {
+    "name": "Nicole Young",
+    "notes": ["Excellent communication with clients", "Drives quality improvements"]
+  },
+  {
+    "name": "Joseph King",
+    "notes": ["Reliable team member", "Shows continuous learning mindset"]
+  }
+]
